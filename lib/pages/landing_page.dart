@@ -28,7 +28,10 @@ class LandingPage extends StatelessWidget {
                   Container(
                     color: Colors.grey,
                     height: 800,
-                  )
+                  ), Container(
+                    color: Colors.grey,
+                    height: 800,
+                  ),
                 ],
               ),
               Positioned(
